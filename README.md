@@ -1,2 +1,2 @@
 ## A lending page for a hosting site 
-### I created this responsive  project using html and css. This project is responsive and visually appealing.
+### I created this responsive  project using html and css. This project is responsive and visually appealing.This project take more time to complete but after completing this project now I have confidence to build anything on html and css. To make this project responsive I use media query.
